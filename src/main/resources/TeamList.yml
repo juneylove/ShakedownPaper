@@ -1,0 +1,111 @@
+Team1:
+  members:
+    - juneylove
+#    - Player11
+  color:
+    red: 254
+    green: 0
+    blue: 0
+  logo: "\uE021"
+  block_color: red
+  named_color: red
+
+Team2:
+  members:
+    - Player21
+#    - Player22
+  color:
+    red: 254
+    green: 0
+    blue: 186
+  logo: "\uE022"
+  block_color: pink
+  named_color: light purple
+
+#Team3:
+#  members:
+#    - Player31
+#    - Player32
+#  color:
+#    red: 161
+#    green: 0
+#    blue: 254
+#  logo: "\uE023"
+#  block_color: yellow
+#
+#Team4:
+#  members:
+#    - Player41
+#    - Player42
+#  color:
+#    red: 38
+#    green: 0
+#    blue: 254
+#  logo: "\uE024"
+#  block_color: lime
+#
+#Team5:
+#  members:
+#    - Player51
+#    - Player52
+#  color:
+#    red: 2
+#    green: 149
+#    blue: 254
+#  logo: "\uE025"
+#  block_color: green
+#
+#Team6:
+#  members:
+#    - Player61
+#    - Player62
+#  color:
+#    red: 4
+#    green: 230
+#    blue: 255
+#  logo: "\uE026"
+#  block_color: cyan
+#
+#Team7:
+#  members:
+#    - Player71
+#    - Player72
+#  color:
+#    red: 4
+#    green: 254
+#    blue: 150
+#  logo: "\uE027"
+#  block_color: light blue
+#
+#Team8:
+#  members:
+#    - Player81
+#    - Player82
+#  color:
+#    red: 159
+#    green: 255
+#    blue: 4
+#  logo: "\uE028"
+#  block_color: blue
+#
+#Team9:
+#  members:
+#    - Player91
+#    - Player92
+#  color:
+#    red: 255
+#    green: 213
+#    blue: 5
+#  logo: "\uE029"
+#  block_color: purple
+#
+#Team10:
+#  members:
+#    - Player101
+#    - Player102
+#  color:
+#    red: 254
+#    green: 113
+#    blue: 5
+#  logo: "\uE02A"
+#  block_color: magenta

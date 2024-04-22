@@ -1,0 +1,11 @@
+name: ShakedownPaper
+version: 1.0
+main: me.juneylove.shakedown.Main
+api-version: 1.20
+# depend: [ ProtocolLib ]
+
+commands:
+  sd:
+    description: Manage match and teams for Shakedown
+    usage: Command can only be run by a player
+    permission: minecraft.command.op

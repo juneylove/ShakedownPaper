@@ -1,0 +1,33 @@
+# One *entry* will be chosen based on provided weight
+#
+# Each entry can contain any amount of items (i mean, at least 1 obvs)
+#
+# Side options:
+# - Left: 3rd column
+# - Left middle: 4th column
+# - Middle: 5th column
+# - Right middle: 6th column
+# - Right: 7th column
+#
+#                    v v v v v
+# Chest columns: 1 2 3 4 5 6 7 8 9
+#
+# level1.yml: max row is 3
+# level2.yml: max row is 4
+# level3.yml: max row is 5
+# level4.yml: max row is 6
+# No other filenames will be read besides these 4
+#
+# Item definitions:
+#    Format:     ITEM_NAME x AMOUNT in row NUMBER SIDE
+#    Example:    OAK_PLANKS x 1 in row 1 LEFT
+#    Also works: Oak planks x 1 in row 1 left
+#
+# If an item isn't stackable, amount does not need to be specified:
+#    Example:    Iron sword in row 1 middle
+
+entry 1:
+  weight: 1
+  items:
+    - Iron ingot x 1 in row 1 LEFT
+    - Gold ingot x 1 in row 1 RIGHT
